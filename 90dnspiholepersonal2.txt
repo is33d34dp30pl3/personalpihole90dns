@@ -22,7 +22,7 @@ ff02::3 ip6-allhosts
 95.216.149.205 conntest.nintendowifi.net
 95.216.149.205 ctest.cdn.nintendo.net
 95.216.149.205 90dns.test
-127.0.0.1 nintendo.com
+0.0.0.0 nintendo.com
 127.0.0.1 nintendo.net
 127.0.0.1 nintendo.jp
 127.0.0.1 nintendo.co.jp
