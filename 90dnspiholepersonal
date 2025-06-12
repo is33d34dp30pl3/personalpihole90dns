@@ -1,9 +1,8 @@
-Nintendo blocklist
-[pihole]
-! Title: Havels personal 90dns blocklist
-! Description: blocks Nintendo servers using 90dns servers
-! Homepage: https://github.com/is33d34dp30pl3/personalpihole90dns
-! Last modified: 12 Jun 2025
+
+# Title: Havels personal 90dns blocklist
+# Description: blocks Nintendo servers using 90dns servers
+# Homepage: https://github.com/is33d34dp30pl3/personalpihole90dns
+# Last modified: 12 Jun 2025
 
 0.0.0.0 conntest.nintendowifi.net/95.216.149.205
 0.0.0.0 ctest.cdn.nintendo.net/95.216.149.205
